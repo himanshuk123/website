@@ -2,9 +2,8 @@
 
 'use strict';
 
-//----
 // Dependencies
-//----
+
 
 // jshint ignore:start
 var gulp          = require('gulp');
